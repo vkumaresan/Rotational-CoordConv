@@ -1,6 +1,8 @@
 # Rotational-CoordConv
 Duke BME590 (Medical Machine Learning) Project 2: Rotational Variation of CoordConv
 
+
+
 *References*:
 
 An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
