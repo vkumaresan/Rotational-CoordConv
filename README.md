@@ -11,11 +11,12 @@ Duke BME590 (Medical Machine Learning) Project 2: Rotational Variation of CoordC
 'Rotational CoordConv for Lung Image Segmentation': Includes CoordConv layer class and Learned Rotational CoordConv layer class. Both can be plugged in to any Keras model for immediate use.
 
 
-Presentation Slides: https://docs.google.com/presentation/d/1M339Q8ohdX3mB3Lw4PwImxou3RTLJyAhfe0_d-G0FoE/edit?usp=sharing
+**Presentation Slides** 
+https://docs.google.com/presentation/d/1M339Q8ohdX3mB3Lw4PwImxou3RTLJyAhfe0_d-G0FoE/edit?usp=sharing
 
 
 
-*References*:
+**References**:
 
     An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
     Rosanne Liu, Joel Lehman, Piero Molino, Felipe Petroski Such, Eric Frank, Alex Sergeev, Jason Yosinski
