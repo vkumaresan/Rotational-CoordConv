@@ -1,7 +1,15 @@
 # Rotational-CoordConv
 Duke BME590 (Medical Machine Learning) Project 2: Rotational Variation of CoordConv
 
-'Rotational CoordConv for Lung Image Segmentation' notebook includes CoordConv layer class and Learned Rotational CoordConv layer class. Both can be plugged in to any Keras model for immediate use.
+**Notebooks**
+
+'Basic_CoordConv_Classification_MNIST': Image classification comparing CNN and CNN+CoordConv performance.
+
+'CoordConv_Baseline_Classification_Application_Pneumonia_CXR': Pipeline for image classification of pneumonia. (Note: not used in project due to long training time). 
+
+
+'Rotational CoordConv for Lung Image Segmentation': Includes CoordConv layer class and Learned Rotational CoordConv layer class. Both can be plugged in to any Keras model for immediate use.
+
 
 Presentation Slides: https://docs.google.com/presentation/d/1M339Q8ohdX3mB3Lw4PwImxou3RTLJyAhfe0_d-G0FoE/edit?usp=sharing
 
