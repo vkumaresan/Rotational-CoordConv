@@ -12,6 +12,7 @@ Duke BME590 (Medical Machine Learning) Project 2: Rotational Variation of CoordC
 
 
 **Presentation Slides** 
+
 https://docs.google.com/presentation/d/1M339Q8ohdX3mB3Lw4PwImxou3RTLJyAhfe0_d-G0FoE/edit?usp=sharing
 
 
