@@ -7,12 +7,18 @@ Presentation Slides: https://docs.google.com/presentation/d/1M339Q8ohdX3mB3Lw4Pw
 
 
 
-*Reference*:
+*References*:
 
     An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
-
     Rosanne Liu, Joel Lehman, Piero Molino, Felipe Petroski Such, Eric Frank, Alex Sergeev, Jason Yosinski
-
     https://arxiv.org/abs/1807.03247
 
+    Spatial Transformer Networks
+    Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu
+    https://arxiv.org/abs/1506.02025
+
+    Lung Segmentation:
+        Data: https://www.kaggle.com/kmader/finding-lungs-in-ct-data
+
+        Model: https://www.kaggle.com/toregil/a-lung-u-net-in-keras/
 
